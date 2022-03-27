@@ -1,0 +1,18 @@
+channels:
+    - conda-forge
+    - pytorch
+    - pytorch3d=0.3
+    - bottler
+    - iopath
+
+dependencies:
+    - cudatoolkit
+    - yacs
+    - iopath
+    - matplotlib
+    - pytorch
+    - torchvision
+    - fvcore
+    - nvidiacub
+    - pytorch3d
+    - opencv
